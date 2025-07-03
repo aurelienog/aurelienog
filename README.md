@@ -1,18 +1,47 @@
 ## Hi there, I'm Aurélie 👋
 
-I'm a junior frontend developer passionate about building elegant, accessible, and high-performance web interfaces. Currently looking for my first professional opportunity in web development — open to working in **Spain or remotely**.
+I'm a **junior full‑stack developer** focused on building modern, accessible and performant web apps with JavaScript, React and Node.js.  
+
+Currently looking for my first professional opportunity in web development — open to working in **Spain (Bilbao) or remotely**.
 
 🇪🇸 *Desarrolladora web junior, disponible para trabajar en España o en remoto. En búsqueda de mi primer puesto profesional.*
 
 ---
 
-## 🛠 Tech Stack
 
-- **Frontend:** React • Next.js 15 (App Router) • TypeScript
-- **Styling:** CSS Modules • Responsive Design • TailwindCss  • Framer Motion
-- **Forms & UX:** React Hook Form • Form validation • Animations
-- **Backend (basics):** Node.js • Nodemailer (email form handling)
-- **Tools:** Git • ESLint + Prettier • Vercel • Chrome DevTools
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+
+**Styling & UI**  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer--Motion-EF0185?logo=framer&logoColor=white)
+![Accessibility](https://img.shields.io/badge/-Accessibility-44cc88?logo=accessibility&logoColor=white)
+
+**Databases & Auth**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Sessions](https://img.shields.io/badge/-Sessions-000000?logo=express&logoColor=white)
+
+**Tooling**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![Multer](https://img.shields.io/badge/-Multer-333333?logo=nodedotjs&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-0078D4?logo=gmail&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=react&logoColor=white)
+![VoiceOver](https://img.shields.io/badge/-VoiceOver-555555?style=flat&logo=apple&logoColor=white)
 
 ---
 
@@ -25,11 +54,13 @@ Corporate site for a renovation company in France.
 
 ---
 
-## 🧠 About Me
+## 🔧 What I Can Build
 
-- 🎯 Focused on clean code, accessibility and user experience
-- 🧩 I enjoy bringing design to life with animation and semantic HTML
-- 📚 Currently learning: advanced forms, testing, and backend basics
+✔ Full Stack JS projects (MERN or custom stack)  
+✔ Responsive UIs with semantic HTML + CSS or TailwindCss  
+✔ Secure authentication flows (JWT / Sessions)  
+✔ APIs with Express and MongoDB  
+✔ SSR apps (Node.js or Next.js)
 
 ---
 
@@ -39,7 +70,7 @@ Corporate site for a renovation company in France.
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
 - 🌐 [Portfolio](https://aurelie-nogueira.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/aurelie-nogueira)
