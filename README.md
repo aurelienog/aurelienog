@@ -36,10 +36,12 @@ Currently looking for my first professional opportunity in web development — o
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 ![Multer](https://img.shields.io/badge/-Multer-333333?logo=nodedotjs&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/-Nodemailer-0078D4?logo=gmail&logoColor=white)
+
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=react&logoColor=white)
 ![VoiceOver](https://img.shields.io/badge/-VoiceOver-555555?style=flat&logo=apple&logoColor=white)
 
