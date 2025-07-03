@@ -12,6 +12,7 @@ Currently looking for my first professional opportunity in web development — o
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -20,17 +21,20 @@ Currently looking for my first professional opportunity in web development — o
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
 **Styling & UI**  
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer--Motion-EF0185?logo=framer&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/-Accessibility-44cc88?logo=accessibility&logoColor=white)
 
 **Databases & Auth**  
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Sessions](https://img.shields.io/badge/-Sessions-000000?logo=express&logoColor=white)
 
 **Tooling**  
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
