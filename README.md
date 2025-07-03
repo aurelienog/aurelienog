@@ -56,7 +56,7 @@ Currently looking for my first professional opportunity in web development — o
 ### 🏠 [ANJ Renov](https://renov-three.vercel.app/)  
 Corporate site for a renovation company in France.  
 > Next.js 15 • Server-side rendering • Lazy loading • Contact form • 100% Lighthouse scores  
-🟢 [View on GitHub](https://github.com/aurelienog/anj-renov)
+🟢 [View on GitHub](https://github.com/aurelienog/renov)
 
 ---
 
