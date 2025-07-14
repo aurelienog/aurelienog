@@ -1,6 +1,7 @@
-## Hi there, I'm Aurélie 👋
+![Header](./github-header-image.png)
 
-I'm a **junior full‑stack developer** focused on building modern, accessible and performant web apps with JavaScript, React and Node.js.  
+
+I'm a **junior** focused on building modern, accessible and performant web apps with JavaScript, React and Node.js.  
 
 Currently looking for my first professional opportunity in web development — open to working in **Spain (Bilbao) or remotely**.
 
