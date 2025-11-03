@@ -5,7 +5,7 @@ I'm focused on building modern, accessible and performant web apps with JavaScri
 
 Currently looking for my first professional opportunity in web development — open to working in **Spain (Bilbao) or remotely**.
 
-🇪🇸 *Desarrolladora web junior, disponible para trabajar en España o en remoto. En búsqueda de mi primer puesto profesional.*
+🇪🇸 *Desarrolladora web, disponible para trabajar en España o en remoto. En búsqueda de mi primer puesto profesional.*
 
 ---
 
