@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+[currently studying at 42]
 
 I'm focused on building modern, accessible and performant web apps with JavaScript, React and Node.js.  
 
