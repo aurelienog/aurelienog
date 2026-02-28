@@ -13,6 +13,8 @@ Currently looking for my first professional opportunity in web development — o
 
 ## 🛠️ Tech Stack
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=radical)
+
 **Languages & Frameworks**  
 
 ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white)
