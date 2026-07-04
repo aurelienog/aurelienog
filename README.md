@@ -7,22 +7,33 @@ Currently looking for my first professional opportunity in web development — o
 
 🇪🇸 *Desarrolladora web, disponible para trabajar en España o en remoto. En búsqueda de mi primer puesto profesional.*  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=radical)
 ---
 
+## 🚀 Currently
+
+- 📚 Common Core student at 42
+- 💻 Programming in C and Python
+- 🧠 Algorithms & Data Structures
+- 🔄 Concurrent Programming
+- ⚙️ Backend Development
+- 🌐 Modern Web Development
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
 
-![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=radical)
+
+**Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+
 
 **Styling & UI**  
 
@@ -57,20 +68,53 @@ Currently looking for my first professional opportunity in web development — o
 
 ## 🌟 Featured Project
 
-### 🏠 [ANJ Renov](https://renov-three.vercel.app/)  
-Corporate site for a renovation company in France.  
-> Next.js 15 • Server-side rendering • Lazy loading • Contact form • 100% Lighthouse scores  
-🟢 [View on GitHub](https://github.com/aurelienog/renov)
+### ⭐ Codexion
+> Concurrent scheduler written in C using POSIX Threads, mutexes and condition variables.
+
+### ⭐ Fly-In
+> Multi-agent pathfinding simulator using Space-Time A*.
+
+### ⭐ A-Maze-ing
+> Modular maze generator and solver written in Python.
+
+### ⭐ [ANJ Renov](https://www.anj-renov.fr/)  
+> Production website built with Next.js and TypeScript.  
 
 ---
 
-## 🔧 What I Can Build
+## 🧩 Areas of Interest
 
-✔ Full Stack JS projects (MERN or custom stack)  
-✔ Responsive UIs with semantic HTML + CSS or TailwindCss  
-✔ Secure authentication flows (JWT / Sessions)  
-✔ APIs with Express and MongoDB  
-✔ SSR apps (Node.js or Next.js)
+- Algorithms & Data Structures
+- Concurrent Programming
+- Software Architecture
+- Web Development
+- Backend Development
+
+---
+## 🎓 42
+
+Current level: **4.05**
+
+Completed projects include:
+
+- Libft
+- ft_printf
+- get_next_line
+- push_swap
+- Born2beroot
+- Python Modules 00–10
+- A-Maze-ing
+- Fly-In
+- Codexion
+
+Core topics:
+
+- Algorithms
+- Data Structures
+- Unix
+- Concurrent Programming
+- Software Design
+- System Administration
 
 ---
 
@@ -79,13 +123,16 @@ Corporate site for a renovation company in France.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's connect
 
 - 🌐 [Portfolio](https://aurelie-nogueira.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/aurelie-nogueira)
 - 📧 aure.software.dev@gmail.com
 
----
-
 > 💬 *Thank you for visiting my profile! If you're hiring or just want to connect, feel free to reach out.*  
 > 🙋‍♀️ *Gracias por visitar mi perfil. ¡Estoy abierta a colaboraciones y oportunidades laborales!*
+
+---
+
+Always learning.
+Always building.
