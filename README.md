@@ -33,24 +33,57 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ## 🌟 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img="https://github.com/aurelienog/fly-in/asset.png">
+    <td width="220" align="center">
+      <a href="https://github.com/aurelienog/codexion">
+        <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="250">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/aurelienog/codexion">🚦 Codexion</a></h3>
+      <p>Concurrent scheduler in C featuring POSIX threads, mutexes, condition variables and FIFO/EDF scheduling.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/aurelienog/fly-in">
+        <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="250">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/aurelienog/fly-in">🚁 Fly-In</a></h3>
+      <p>Multi-agent pathfinding simulator using Space-Time A*.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/aurelienog/a-maze-ing">
+        <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="250">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/aurelienog/a-maze-ing">🧩 A-Maze-ing</a></h3>
+      <p>Maze generator and solver implementing Prim, DFS and BFS.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://www.anj-renov.fr/">
+        <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="250">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://www.anj-renov.fr/">🏠 ANJ Renov</a></h3>
+      <p>Production website built with Next.js and TypeScript.</p>
+    </td>
   </tr>
 </table>
-
-### 🚦 [Codexion](https://github.com/aurelienog/codexion)
-> Concurrent scheduler in C featuring POSIX threads, mutexes, condition variables and FIFO/EDF scheduling.
-
-### 🚁 [Fly-In](https://github.com/aurelienog/fly-in)
-> Multi-agent pathfinding simulator using Space-Time A*.
-
-### 🧩 [A-Maze-ing](https://github.com/aurelienog/a-maze-ing)
-> Maze generator and solver implementing Prim, DFS and BFS.
-
-### 🏠 [ANJ Renov](https://www.anj-renov.fr/)  
-> Production website built with Next.js and TypeScript.  
 
 ---
 ## 🎓 42
