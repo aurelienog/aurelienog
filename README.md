@@ -15,8 +15,7 @@ I'm looking for my first opportunity as a **Software Developer**, open to work i
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=radical)
-
-| **Backend** | **Frontend** | **Testing & Code Quality** | **Tools** |
+| **Backend** | **Frontend** | **Testing &<br> Code Quality** | **Tools** |
 |-------------|--------------|----------------------------|-----------|
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) | ![mypy](https://img.shields.io/badge/-mypy-2A6DB2) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
