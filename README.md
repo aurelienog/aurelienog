@@ -40,7 +40,7 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚦 Codexion
 
@@ -53,7 +53,7 @@ Concurrent scheduler in C featuring:
 - FIFO/EDF scheduling
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚁 Fly-In
 
