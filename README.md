@@ -44,9 +44,7 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ### 🚦 Codexion
 
-<a href="https://github.com/aurelienog/codexion">
 <img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%">
-</a>
 Concurrent scheduler in C featuring:  
 
 - POSIX threads
@@ -59,28 +57,23 @@ Concurrent scheduler in C featuring:
 
 ### 🚁 Fly-In
 
-<a href="https://github.com/aurelienog/fly-in">
 <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="100%">
-</a>
 Multi-agent pathfinding simulator using Space-Time A*.  
 </td>
-
+</tr>
+<tr>
 <td valign="top">
 
 ### 🧩 A-Maze-ing
 
-<a href="https://github.com/aurelienog/a-maze-ing">
 <img src="https://github.com/aurelienog/a-maze-ing/blob/main/asset.png" alt="Fly-In" width="100%">
-</a>
 Maze generator and solver implementing Prim, DFS and BFS.
 </td>
 
 <td valign="top">
 
 ### 🏠 ANJ Renov
-<a href="https://www.anj-renov.fr/">
 <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="100%">
-</a>
 Production website built with Next.js and TypeScript.
 </td>
 </tr>
