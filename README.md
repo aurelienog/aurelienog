@@ -64,7 +64,7 @@ Maze generator and solver implementing Prim, DFS and BFS.
 <td valign="top">
 
 ### 🏠 [ANJ Renov](https://www.anj-renov.fr/)
-<img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="100%">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/asset.png" alt="Fly-In" width="100%">
 Production website built with Next.js and TypeScript.
 </td>
 </tr>
