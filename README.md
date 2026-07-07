@@ -14,7 +14,6 @@ I'm looking for my first opportunity as a **Software Developer**, open to work i
 ## 🛠️ Tech Stack
 
 <img align="left" width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=midnight_purple"/>
-<span align=center>
 
 | **Backend** | **Frontend** | **Testing &<br> Code Quality** | **Tools** |
 |-------------|--------------|----------------------------|-----------|
@@ -23,7 +22,6 @@ I'm looking for my first opportunity as a **Software Developer**, open to work i
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![flake8](https://img.shields.io/badge/-flake8-3776AB) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white) | ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 | ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
-<span>
 
 ---
 
