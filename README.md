@@ -16,37 +16,13 @@ I'm looking for my first opportunity as a **Software Developer**, open to work i
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=radical)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Accessibility](https://img.shields.io/badge/-Accessibility-44cc88?logo=accessibility&logoColor=white)
-
-### Testing & Code Quality
-
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
-![mypy](https://img.shields.io/badge/-mypy-2A6DB2)
-![flake8](https://img.shields.io/badge/-flake8-3776AB)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+| **Backend** | **Frontend** | **Testing & Code Quality** | **Tools** |
+|-------------|--------------|----------------------------|-----------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) | ![mypy](https://img.shields.io/badge/-mypy-2A6DB2) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![flake8](https://img.shields.io/badge/-flake8-3776AB) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white) | ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+| ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
 ---
 
