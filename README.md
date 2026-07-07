@@ -33,8 +33,6 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ## 🌟 Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="220" align="center">
