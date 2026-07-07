@@ -16,7 +16,7 @@ I'm looking for my first opportunity as a **Software Developer**, open to work i
 <img
   align="left"
   width="380"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurelienog&theme=tokyonight"
 />
 
 | **Backend** | **Frontend** | **Testing &<br> Code Quality** | **Tools** |
