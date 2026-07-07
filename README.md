@@ -37,13 +37,13 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ## 🌟 Featured Projects
 
-### 🚦 Codexion
+### 🚦 [Codexion](https://github.com/aurelienog/codexion)
 > Concurrent scheduler in C featuring POSIX threads, mutexes, condition variables and FIFO/EDF scheduling.
 
-### 🚁 Fly-In
+### 🚁 [Fly-In](https://github.com/aurelienog/fly-in)
 > Multi-agent pathfinding simulator using Space-Time A*.
 
-### 🧩 A-Maze-ing
+### 🧩 [A-Maze-ing](https://github.com/aurelienog/a-maze-ing)
 > Maze generator and solver implementing Prim, DFS and BFS.
 
 ### 🏠 [ANJ Renov](https://www.anj-renov.fr/)  
