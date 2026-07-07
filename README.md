@@ -42,7 +42,7 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 Codexion
+### 🚦 [Codexion](https://github.com/aurelienog/codexion/)
 
 <img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%">
 Concurrent scheduler in C featuring:  
@@ -55,7 +55,7 @@ Concurrent scheduler in C featuring:
 
 <td width="50%" valign="top">
 
-### 🚁 Fly-In
+### 🚁 [Fly-In](https://github.com/aurelienog/fly-in/)
 
 <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="100%">
 Multi-agent pathfinding simulator using Space-Time A*.  
@@ -64,7 +64,7 @@ Multi-agent pathfinding simulator using Space-Time A*.
 <tr>
 <td valign="top">
 
-### 🧩 A-Maze-ing
+### 🧩 [A-Maze-Ing](https://github.com/aurelienog/A-Maze-Ing)
 
 <img src="https://github.com/aurelienog/a-maze-ing/blob/main/asset.png" alt="Fly-In" width="100%">
 Maze generator and solver implementing Prim, DFS and BFS.
@@ -72,7 +72,7 @@ Maze generator and solver implementing Prim, DFS and BFS.
 
 <td valign="top">
 
-### 🏠 ANJ Renov
+### 🏠 [ANJ Renov](https://www.anj-renov.fr/)
 <img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="100%">
 Production website built with Next.js and TypeScript.
 </td>
