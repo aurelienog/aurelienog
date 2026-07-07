@@ -33,6 +33,13 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ## 🌟 Featured Projects
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img="https://github.com/aurelienog/fly-in/asset.png">
+  </tr>
+</table>
+
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion)
 > Concurrent scheduler in C featuring POSIX threads, mutexes, condition variables and FIFO/EDF scheduling.
 
