@@ -45,12 +45,7 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)
 
 <img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%">
-Concurrent scheduler in C featuring:  
-
-- POSIX threads
-- mutexes
-- condition variables
-- FIFO/EDF scheduling
+Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling
 </td>
 
 <td width="50%" valign="top">
