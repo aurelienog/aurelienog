@@ -122,10 +122,10 @@ Completed:
 | <a href="https://github.com/aurelienog/42-Python-Init/tree/main/python01/">Python Module 01</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Object-Oriented Programming |
 | <a href="https://github.com/aurelienog/42-Python-Init/tree/main/python00/">Python Module 00</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 4H | Python Fundamentals |
 | <a href="https://github.com/aurelienog/Born2BeRoot/">Born2beroot</a> | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | 50H | System Administration |
-| <a href="https://github.com/aurelienog/42-cursus/push_sw/">push_swap</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | Sorting Algorithms |
-| <a href="https://github.com/aurelienog/42-cursus/get_next_line/">get_next_line ⭐</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | File I/O |
-| <a href="https://github.com/aurelienog/42-cursus/printf/">ft_printf</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | Variadic Functions |
-| <a href="https://github.com/aurelienog/42-cursus/Libft/">Libft</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | C Standard Library |
+| <a href="https://github.com/aurelienog/42-cursus/tree/main/push_sw/">push_swap</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | Sorting Algorithms |
+| <a href="https://github.com/aurelienog/42-cursus/tree/main/get_next_line/">get_next_line ⭐</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | File I/O |
+| <a href="https://github.com/aurelienog/42-cursus/tree/main/printf/">ft_printf</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | Variadic Functions |
+| <a href="https://github.com/aurelienog/42-cursus/tree/main/Libft/">Libft</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | C Standard Library |
 
 
 </details>
