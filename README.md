@@ -84,7 +84,7 @@ Production website built with Next.js and TypeScript.
 
 Current level: **4.05** (Common Core)
 
-Progress: 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 22%
+Progress: 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ 22%
 
 <details>
 <summary><strong>📚 Completed projects (18)</strong></summary>
@@ -117,6 +117,7 @@ Progress: 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 22%
 ⭐ Bonus completed.
 
 </details>
+
 ---
 
 ## 📈 GitHub Stats 
