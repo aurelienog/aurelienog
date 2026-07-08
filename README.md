@@ -18,6 +18,7 @@ Antes de incorporarme a 42, completé un bootcamp de **MERN Stack** y desarroll�
 Busco mi primera oportunidad como **Software Developer**, en **Bilbao** o en remoto. Hablo **francés (nativo)**, **español** e **inglés** con fluidez.
 
 </details>
+
 ---
 
 ## 🛠️ Tech Stack
