@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.avif)
 
 
 I'm a software developer currently studying at **42**, where I'm building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
