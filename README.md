@@ -110,22 +110,22 @@ Completed:
 | <a href="https://github.com/aurelienog/codexion/">Codexion</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 80H | POSIX Threads · Scheduling |
 | <a href="https://github.com/aurelienog/fly-in/">Fly-In ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 120H | Space-Time A* |
 | <a href="https://github.com/aurelienog/A-Maze-Ing/">A-Maze-ing ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 50H | Prim · DFS · BFS |
-| <a href="https://github.com/aurelienog/python10/">Python Module 10</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Functional Programming |
-| <a href="https://github.com/aurelienog/python09/">Python Module 09</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Pydantic |
-| <a href="https://github.com/aurelienog/python08/">Python Module 08</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Virtual Environments |
-| <a href="https://github.com/aurelienog/python07/">Python Module 07</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 7H | Design Patterns |
-| <a href="https://github.com/aurelienog/python06/">Python Module 06</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 7H | Packages & Imports |
-| <a href="https://github.com/aurelienog/python05/">Python Module 05</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 20H | Abstraction & Polymorphism |
-| <a href="https://github.com/aurelienog/python04/">Python Module 04</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 6H | File I/O |
-| <a href="https://github.com/aurelienog/python03/">Python Module 03</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Data Structures |
-| <a href="https://github.com/aurelienog/python02/">Python Module 02</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Exception Handling |
-| <a href="https://github.com/aurelienog/python01/">Python Module 01</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Object-Oriented Programming |
-| <a href="https://github.com/aurelienog/python00/">Python Module 00</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 4H | Python Fundamentals |
+| <a href="https://github.com/aurelienog/42-Python-Init/python10/">Python Module 10</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Functional Programming |
+| <a href="https://github.com/aurelienog/42-Python-Init/python09/">Python Module 09</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Pydantic |
+| <a href="https://github.com/aurelienog/42-Python-Init/python08/">Python Module 08</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Virtual Environments |
+| <a href="https://github.com/aurelienog/42-Python-Init/python07/">Python Module 07</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 7H | Design Patterns |
+| <a href="https://github.com/aurelienog/42-Python-Init/python06/">Python Module 06</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 7H | Packages & Imports |
+| <a href="https://github.com/aurelienog/42-Python-Init/python05/">Python Module 05</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 20H | Abstraction & Polymorphism |
+| <a href="https://github.com/aurelienog/42-Python-Init/python04/">Python Module 04</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 6H | File I/O |
+| <a href="https://github.com/aurelienog/42-Python-Init/python03/">Python Module 03</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Data Structures |
+| <a href="https://github.com/aurelienog/42-Python-Init/python02/">Python Module 02</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Exception Handling |
+| <a href="https://github.com/aurelienog/42-Python-Init/python01/">Python Module 01</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Object-Oriented Programming |
+| <a href="https://github.com/aurelienog/42-Python-Init/python00/">Python Module 00</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 4H | Python Fundamentals |
 | <a href="https://github.com/aurelienog/Born2BeRoot/">Born2beroot</a> | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | 50H | System Administration |
-| <a href="https://github.com/aurelienog/push_sw/">push_swap</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | Sorting Algorithms |
-| <a href="https://github.com/aurelienog/get_next_line/">get_next_line ⭐</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | File I/O |
-| <a href="https://github.com/aurelienog/printf/">ft_printf</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | Variadic Functions |
-| <a href="https://github.com/aurelienog/Libft/">Libft</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | C Standard Library |
+| <a href="https://github.com/aurelienog/42-cursus/push_sw/">push_swap</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | Sorting Algorithms |
+| <a href="https://github.com/aurelienog/42-cursus/get_next_line/">get_next_line ⭐</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | File I/O |
+| <a href="https://github.com/aurelienog/42-cursus/printf/">ft_printf</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | Variadic Functions |
+| <a href="https://github.com/aurelienog/42-cursus/Libft/">Libft</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | C Standard Library |
 
 
 </details>
