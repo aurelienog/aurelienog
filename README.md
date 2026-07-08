@@ -23,7 +23,7 @@ Busco mi primera oportunidad como **Software Developer**, en **Bilbao** o en rem
 
 ## 🛠️ Tech Stack
 
-| **Languages** | **Backend** | **Web** | **Testing &<br>Code Quality** | **Tools** |
+| **Languages** | **Backend** | **Frontend** | **Testing &<br>Code Quality** | **Tools** |
 |---------------|-------------|---------|-------------------------------|-----------|
 | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) | ![mypy](https://img.shields.io/badge/-mypy-2A6DB2) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
