@@ -80,14 +80,18 @@ Production website built with Next.js and TypeScript.
 
 ---
 
-## 🎓 42
+## 🎓 42 Cursus
 
 Current level: **4.05** (Common Core)
 
 Progress: 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ 22%
 
+Completed:
+- ✅ 19 projects
+- ⏱️ 750+ hours of coursework
+
 <details>
-<summary><strong>📚 Completed projects (18)</strong></summary>
+<summary><strong>📚 Completed projects (19)</strong></summary>
 
 <br>
 
