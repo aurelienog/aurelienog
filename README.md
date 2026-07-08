@@ -82,28 +82,28 @@ Progress: 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 22%
 
 <br>
 
-| Project | Lang | Workload | Main topics |
-|---------|:----:|:--------:|-------------|
-| Libft | C | 70H | C Standard Library |
-| ft_printf | C | 55H | Variadic Functions |
-| get_next_line ⭐ | C | 55H | File I/O |
-| push_swap | C | 70H | Sorting Algorithms |
-| Born2beroot | Linux | 50H | System Administration |
-| Python Module 00 | Python | 4H | Python Basics |
-| Python Module 01 | Python | 10H | OOP |
-| Python Module 02 | Python | 10H | Exception Handling |
-| Python Module 03 | Python | 15H | Data Structures |
-| Python Module 04 | Python | 6H | File Handling |
-| Python Module 05 | Python | 20H | Abstract Classes |
-| Python Module 06 | Python | 7H | Imports & Packages |
-| Python Module 07 | Python | 7H | Design Patterns |
-| Python Module 08 | Python | 15H | Virtual Environments |
-| Python Module 09 | Python | 15H | Pydantic |
-| Python Module 10 | Python | 15H | Functional Programming |
-| A-Maze-ing ⭐ | Python | 50H | Prim · DFS · BFS |
-| Fly-In ⭐ | Python | 120H | Space-Time A* |
-| Codexion | C | 80H | POSIX Threads · Scheduling |
-| 🚧 Call Me Maybe | C++ | 80H | Databases · OOP |
+| Project | Language | Workload | Main topics |
+|---------|----------|:--------:|-------------|
+| Libft | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | C Standard Library |
+| ft_printf | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | Variadic Functions |
+| get_next_line ⭐ | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 55H | File I/O |
+| push_swap | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 70H | Sorting Algorithms |
+| Born2beroot | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | 50H | System Administration |
+| Python Module 00 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 4H | Python Fundamentals |
+| Python Module 01 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Object-Oriented Programming |
+| Python Module 02 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 10H | Exception Handling |
+| Python Module 03 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Data Structures |
+| Python Module 04 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 6H | File I/O |
+| Python Module 05 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 20H | Abstraction & Polymorphism |
+| Python Module 06 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 7H | Packages & Imports |
+| Python Module 07 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 7H | Design Patterns |
+| Python Module 08 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Virtual Environments |
+| Python Module 09 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Pydantic |
+| Python Module 10 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 15H | Functional Programming |
+| A-Maze-ing ⭐ | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 50H | Prim · DFS · BFS |
+| Fly-In ⭐ | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 120H | Space-Time A* |
+| Codexion | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 80H | POSIX Threads · Scheduling |
+| 🚧 Call Me Maybe | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Databases · OOP |
 
 ⭐ Bonus completed.
 
