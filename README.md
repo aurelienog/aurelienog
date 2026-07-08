@@ -45,7 +45,8 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 <table>
 <tr>
 <td width="50%" valign="top">
-### 🚦 [Codexion](https://github.com/aurelienog/codexion/)
+
+### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%"></a>
 Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling.
 </td>
@@ -65,8 +66,8 @@ Multi-agent pathfinding simulator using Space-Time A*.
 ### 🧩 [A-Maze-Ing](https://github.com/aurelienog/A-Maze-Ing)
 <a href="https://github.com/aurelienog/A-Maze-Ing/">
 <img src="https://github.com/aurelienog/a-maze-ing/blob/main/asset.png" alt="Fly-In" width="100%">
-Maze generator and solver implementing Prim, DFS and BFS.
 </a>
+Maze generator and solver implementing Prim, DFS and BFS.
 </td>
 
 <td valign="top">
