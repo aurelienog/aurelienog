@@ -6,9 +6,18 @@ I'm a software developer currently studying at **42**, where I'm building a stro
 Before joining 42, I completed a **MERN Stack** bootcamp and independently developed and deployed a production website for a family business using **Next.js** and **TypeScript**.
 
 I'm looking for my first opportunity as a **Software Developer**, open to work in **Bilbao or remotely**.
+I'm fluent in **French (native)**, **Spanish**, and **English**.
 
-🇪🇸 Desarrolladora de software en formación en 42. Me interesa especialmente el desarrollo backend y busco mi primera oportunidad profesional en Bilbao o en remoto.
+<details>
+<summary>🇪🇸 Versión en español</summary>
 
+Desarrolladora de software en formación en **42**, donde estoy construyendo una sólida base en algoritmos, estructuras de datos e ingeniería de software a través de proyectos prácticos.
+
+Antes de incorporarme a 42, completé un bootcamp de **MERN Stack** y desarrollé y desplegué de forma independiente una web en producción para una empresa familiar utilizando **Next.js** y **TypeScript**.
+
+Busco mi primera oportunidad como **Software Developer**, en **Bilbao** o en remoto. Hablo **francés (nativo)**, **español** e **inglés** con fluidez.
+
+</details>
 ---
 
 ## 🛠️ Tech Stack
