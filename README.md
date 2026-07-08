@@ -47,9 +47,10 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 <td width="50%" valign="top">
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)
-
-<img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%">
+<a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%">
 Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling.
+</a>
+
 </td>
 
 <td width="50%" valign="top">
