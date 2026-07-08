@@ -79,6 +79,7 @@ Production website built with Next.js and TypeScript.
 </table>
 
 ---
+
 ## 🎓 42
 
 Current level: **4.05** (Common Core)
