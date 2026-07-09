@@ -38,7 +38,7 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 | **Languages** | **Backend** | **Frontend** | **Testing &<br>Code Quality** | **Tools** |
 |---------------|-------------|---------|-------------------------------|-----------|
-| ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) | ![mypy](https://img.shields.io/badge/-mypy-2A6DB2) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![flake8](https://img.shields.io/badge/-flake8-3776AB) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
@@ -65,8 +65,11 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
-Concurrent task scheduler  
+
+Concurrent task scheduler.  
+
 C • POSIX Threads • Mutexes • EDF • FIFO
+
 </td>
 
 <td width="50%" valign="top">
@@ -75,9 +78,11 @@ C • POSIX Threads • Mutexes • EDF • FIFO
 <a href="https://github.com/aurelienog/fly-in/">
 <img src="https://github.com/aurelienog/fly-in/blob/main/fly-in-image.avif" alt="Fly-In" width="100%">
 </a>
+
 Multi-drone simulator with collision-free path planning.  
 
 Python • Pygame • Space-Time A* • Reservation table
+
 </td>
 
 </tr>
@@ -88,9 +93,11 @@ Python • Pygame • Space-Time A* • Reservation table
 <a href="https://github.com/aurelienog/A-Maze-Ing/">
 <img src="https://github.com/aurelienog/a-maze-ing/blob/main/a-maze-ing-image.avif" alt="a-maze-ing" width="100%">
 </a>
+
 Generate and solve mazes with classic graph algorithms.  
 
 Python • DFS • BFS • Prim
+
 </td>
 
 <td valign="top">
@@ -99,9 +106,12 @@ Python • DFS • BFS • Prim
 <a href="https://www.anj-renov.fr/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/anj-image.avif" alt="anj-renov" width="100%">
 </a>
-Production website for a renovation company.  
+
+Production website for a renovation company. 
+
 
 Next.js • TypeScript
+
 </td>
 </tr>
 </table>
