@@ -48,7 +48,12 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ## 🧠 Core Concepts
 
-Algorithms • Data Structures • Concurrent Programming • Object-Oriented Programming • Software Design • Unix Programming
+![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-306998?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-6A5ACD?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graph%20Algorithms-8A2BE2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Design-FF69B4?style=for-the-badge)
+![Unix](https://img.shields.io/badge/Unix-222222?style=for-the-badge)
 
 ---
 
