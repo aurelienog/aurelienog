@@ -53,7 +53,7 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 ![Concurrency](https://img.shields.io/badge/Concurrency-6A5ACD?style=for-the-badge)
 ![Graphs](https://img.shields.io/badge/Software%20Architecture-8A2BE2?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Design-FF69B4?style=for-the-badge)
-![Unix](https://img.shields.io/badge/Unix-222222?style=for-the-badge)
+
 ---
 
 ## 🌟 Featured Projects
