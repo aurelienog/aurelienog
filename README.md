@@ -61,7 +61,7 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
-Concurrent task scheduler
+Concurrent task scheduler  
 C • POSIX Threads • Mutexes • EDF • FIFO
 </td>
 
