@@ -61,7 +61,9 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
-Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling.
+Concurrent task scheduler
+
+C • POSIX Threads • Mutexes • EDF • FIFO
 </td>
 
 <td width="50%" valign="top">
@@ -70,8 +72,10 @@ Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling.
 <a href="https://github.com/aurelienog/fly-in/">
 <img src="https://github.com/aurelienog/fly-in/blob/main/fly-in-image.avif" alt="Fly-In" width="100%">
 </a>
-Multi-agent pathfinding simulator using Space-Time A*.  
+Multi-drone simulator with collision-free path planning.  
+Python • Pygame • Space-Time A* • Reservation table
 </td>
+
 </tr>
 <tr>
 <td valign="top">
@@ -80,7 +84,9 @@ Multi-agent pathfinding simulator using Space-Time A*.
 <a href="https://github.com/aurelienog/A-Maze-Ing/">
 <img src="https://github.com/aurelienog/a-maze-ing/blob/main/a-maze-ing-image.avif" alt="a-maze-ing" width="100%">
 </a>
-Maze generator and solver implementing Prim, DFS and BFS.
+Generate and solve mazes with classic graph algorithms.  
+
+Python • DFS • BFS • Prim
 </td>
 
 <td valign="top">
@@ -89,7 +95,9 @@ Maze generator and solver implementing Prim, DFS and BFS.
 <a href="https://www.anj-renov.fr/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/anj-image.avif" alt="anj-renov" width="100%">
 </a>
-Production website built with Next.js and TypeScript.
+Production website for a renovation company.  
+
+Next.js • TypeScript
 </td>
 </tr>
 </table>
