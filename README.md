@@ -47,7 +47,7 @@ Algorithms • Data Structures • Concurrent Programming • Object-Oriented Pr
 <td width="50%" valign="top">
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
-<a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/asset.png" alt="Fly-In" width="100%"></a>
+<a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
 Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling.
 </td>
 
@@ -55,7 +55,7 @@ Concurrent scheduler in C featuring POSIX threads and FIFO/EDF scheduling.
 
 ### 🚁 [Fly-In](https://github.com/aurelienog/fly-in/)
 <a href="https://github.com/aurelienog/fly-in/">
-<img src="https://github.com/aurelienog/fly-in/blob/main/asset.png" alt="Fly-In" width="100%">
+<img src="https://github.com/aurelienog/fly-in/blob/main/fly-in-image.avif" alt="Fly-In" width="100%">
 </a>
 Multi-agent pathfinding simulator using Space-Time A*.  
 </td>
@@ -65,7 +65,7 @@ Multi-agent pathfinding simulator using Space-Time A*.
 
 ### 🧩 [A-Maze-Ing](https://github.com/aurelienog/A-Maze-Ing)
 <a href="https://github.com/aurelienog/A-Maze-Ing/">
-<img src="https://github.com/aurelienog/a-maze-ing/blob/main/asset.png" alt="Fly-In" width="100%">
+<img src="https://github.com/aurelienog/a-maze-ing/blob/main/a-maze-ing-image.avif" alt="a-maze-ing" width="100%">
 </a>
 Maze generator and solver implementing Prim, DFS and BFS.
 </td>
@@ -74,7 +74,7 @@ Maze generator and solver implementing Prim, DFS and BFS.
 
 ### 🏠 [ANJ Renov](https://www.anj-renov.fr/)
 <a href="https://www.anj-renov.fr/">
-<img src="https://github.com/aurelienog/aurelienog/blob/main/anj-image.avif" alt="Fly-In" width="100%">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/anj-image.avif" alt="anj-renov" width="100%">
 </a>
 Production website built with Next.js and TypeScript.
 </td>
