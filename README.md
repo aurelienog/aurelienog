@@ -10,12 +10,25 @@ I'm fluent in **French (native)**, **Spanish**, and **English**.
 
 <details>
 <summary>🇪🇸 Versión en español</summary>
-
+  
 Desarrolladora de software en formación en **42**, donde estoy construyendo una sólida base en algoritmos, estructuras de datos e ingeniería de software a través de proyectos prácticos.
 
 Antes de incorporarme a 42, completé un bootcamp de **MERN Stack** y desarrollé y desplegué de forma independiente una web en producción para una empresa familiar utilizando **Next.js** y **TypeScript**.
 
-Busco mi primera oportunidad como **Software Developer**, en **Bilbao** o en remoto. Hablo **francés (nativo)**, **español** e **inglés** con fluidez.
+Busco mi primera oportunidad como **Software Developer**, en **Bilbao** o en remoto.  
+Hablo **francés (nativo)**, **español** e **inglés** con fluidez.
+
+</details>
+
+<details>
+<summary>🇫🇷 Version en français</summary>
+  
+Software Developer en formation à 42, où je développe de solides compétences en algorithmes, structures de données et ingénierie logicielle grâce à des projets concrets.
+
+Avant d'intégrer 42, j'ai suivi un bootcamp MERN Stack et conçu puis déployé de manière autonome un site web en production pour une entreprise familiale avec Next.js et TypeScript.
+
+Je recherche ma première opportunité en tant que Software Developer, à Bilbao ou en télétravail.  
+Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 </details>
 
