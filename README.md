@@ -73,6 +73,7 @@ C • POSIX Threads • Mutexes • EDF • FIFO
 <img src="https://github.com/aurelienog/fly-in/blob/main/fly-in-image.avif" alt="Fly-In" width="100%">
 </a>
 Multi-drone simulator with collision-free path planning.  
+
 Python • Pygame • Space-Time A* • Reservation table
 </td>
 
