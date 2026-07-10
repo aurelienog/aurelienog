@@ -7,7 +7,7 @@
 
 I'm a software developer currently studying at **42**, building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
 
-Before joining 42, I completed a **MERN Stack** bootcamp and independently developed and deployed a production website for a family business using **Next.js** and **TypeScript**.
+Before joining 42, I completed a **MERN Stack** bootcamp and independently designed, developed and deployed a production website for a family business using **Next.js** and **TypeScript**.
 
 I'm looking for my first opportunity as a **Software Developer**, open to work in **Bilbao or remotely**.  
 I'm fluent in **French (native)**, **Spanish**, and **English**.
