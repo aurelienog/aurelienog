@@ -1,5 +1,15 @@
 ![Header](./header.avif)
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-28a745?)
+![Bilbao / Remote](https://img.shields.io/badge/Bilbao%20%7C%20Remote-0A66C2?)
+![](https://img.shields.io/badge/Backend%20Focus-6f42c1?)
+![](https://img.shields.io/badge/42%20Student-000000?)
+
+I'm a software developer currently studying at **42**, where I'm building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
+
+Before joining 42, I completed a **MERN Stack** bootcamp and independently developed and deployed a production website for a family business using **Next.js** and **TypeScript**.
+
+I'm looking for my first opportunity as a **Software Developer**, open to work in **Bilbao or remotely**.
 
 I'm a software developer currently studying at **42**, where I'm building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
 
@@ -46,7 +56,7 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ---
 
-## 🧠 Core Concepts
+## 🧠 Core Competencies
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-306998?style=for-the-badge)
