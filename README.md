@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Backend%20Focus-6f42c1?)
 ![](https://img.shields.io/badge/42%20Student-000000?)
 
-I'm a software developer currently studying at **42**, where I'm building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
+I'm a software developer currently studying at **42**, building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
 
 Before joining 42, I completed a **MERN Stack** bootcamp and independently developed and deployed a production website for a family business using **Next.js** and **TypeScript**.
 
@@ -50,7 +50,7 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 Computer Science Fundamentals
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-306998?style=for-the-badge)
@@ -70,7 +70,7 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
 
-Concurrent task scheduler.  
+Concurrent task scheduler with centralized resource arbitration.  
 
 C • POSIX Threads • Mutexes • EDF • FIFO
 
@@ -98,7 +98,7 @@ Python • Pygame • Space-Time A* • Reservation table
 <img src="https://github.com/aurelienog/a-maze-ing/blob/main/a-maze-ing-image.avif" alt="a-maze-ing" width="100%">
 </a>
 
-Generate and solve mazes with classic graph algorithms.  
+Maze generation and solving using classic graph algorithms.
 
 Python • DFS • BFS • Prim
 
@@ -111,7 +111,7 @@ Python • DFS • BFS • Prim
 <img src="https://github.com/aurelienog/aurelienog/blob/main/anj-image.avif" alt="anj-renov" width="100%">
 </a>
 
-Production website for a renovation company. 
+Production website designed, developed and deployed for a renovation company.
 
 
 Next.js • TypeScript
@@ -128,7 +128,7 @@ Current level: **4.05** (Common Core)
 
 Progress: 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ 22%
 
-Completed:
+Highlights:
 - ✅ 19 projects
 - 🏆 Exam Rank 02 / Exam Rank 03
 - ⏱️ 750+ hours of coursework
