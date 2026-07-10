@@ -69,7 +69,6 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
-
 Concurrent task scheduler with centralized resource arbitration.  
 
 C • POSIX Threads • Mutexes • EDF • FIFO
