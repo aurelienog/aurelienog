@@ -133,7 +133,7 @@ Highlights:
 - ⏱️ 800+ hours of coursework
 
 <details>
-<summary><strong>📚 Completed projects (19)</strong></summary>
+<summary><strong>📚 Completed projects (20)</strong></summary>
 
 <br>
 
