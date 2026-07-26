@@ -128,9 +128,9 @@ Current level: **4.05** (Common Core)
 Progress: 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ 22%
 
 Highlights:
-- ✅ 19 projects
+- ✅ 20 projects
 - 🏆 Exam Rank 02 / Exam Rank 03
-- ⏱️ 750+ hours of coursework
+- ⏱️ 800+ hours of coursework
 
 <details>
 <summary><strong>📚 Completed projects (19)</strong></summary>
@@ -144,7 +144,7 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
-| <a href="https://github.com/aurelienog/call-me-maybe/">🚧 Call Me Maybe</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Databases · OOP |
+| <a href="https://github.com/aurelienog/call-me-maybe/">Call Me Maybe ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Databases · OOP |
 | <a href="https://github.com/aurelienog/codexion/">Codexion</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 80H | POSIX Threads · Scheduling |
 | <a href="https://github.com/aurelienog/fly-in/">Fly-In ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 120H | Space-Time A* |
 | <a href="https://github.com/aurelienog/A-Maze-Ing/">A-Maze-ing ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 50H | Prim · DFS · BFS |
