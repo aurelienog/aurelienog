@@ -125,7 +125,7 @@ Next.js • TypeScript
 
 Current level: **4.05** (Common Core)
 
-Progress: 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ 22%
+Progress: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ 36%
 
 Highlights:
 - ✅ 20 projects
