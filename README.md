@@ -123,7 +123,7 @@ Next.js • TypeScript
 
 ## 🎓 42 Cursus
 
-Current level: **4.05** (Common Core)
+Current level: **4.17** (Common Core)
 
 Progress: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ 36%
 
