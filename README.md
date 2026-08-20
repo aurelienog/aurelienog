@@ -123,7 +123,7 @@ Next.js • TypeScript
 
 ## 🎓 42 Cursus
 
-Current level: **4.17** (Common Core)
+Current level: **4.63** (Common Core)
 
 Progress: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ 36%
 
@@ -146,6 +146,7 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
+| <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  | 50H | Network & system administration |
 | <a href="https://github.com/aurelienog/pacman/">Pacman 👥</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/call-me-maybe/">Call Me Maybe ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/codexion/">Codexion</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 80H | POSIX Threads · Scheduling |
