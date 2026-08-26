@@ -123,17 +123,17 @@ Next.js • TypeScript
 
 ## 🎓 42 Cursus
 
-Current level: **4.63** (Common Core)
+Current level: **4.82** (Common Core)
 
 Progress: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ 36%
 
 Highlights:
-- ✅ 20 projects
+- ✅ 22 projects
 - 🏆 Exam Rank 02 / Exam Rank 03 / Exam Rank 04
-- ⏱️ 800+ hours of coursework
+- ⏱️ 1000+ hours of coursework
 
 <details>
-<summary><strong>📚 Completed projects (20)</strong></summary>
+<summary><strong>📚 Completed projects (22)</strong></summary>
 
 <br>
 
@@ -146,7 +146,8 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
-| <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  | 50H | Network & system administration |
+| <a href="https://github.com/aurelienog/RAG/">🚧 RAG</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP · DB & Data |
+| <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-System-23282b?)  | 50H | Network & system administration |
 | <a href="https://github.com/aurelienog/pacman/">Pacman 👥</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/call-me-maybe/">Call Me Maybe ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/codexion/">Codexion</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 80H | POSIX Threads · Scheduling |
