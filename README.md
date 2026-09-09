@@ -65,41 +65,41 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
-<a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/codexion/blob/main/codexion-image.avif" alt="codexion" width="100%"></a>
+<a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/aurelienog/blob/main/codexion.webp" alt="codexion" width="100%"></a>
 Concurrent task scheduler with centralized resource arbitration.  
 
 C • POSIX Threads • Mutexes • EDF • FIFO
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 🚁 [Fly-In](https://github.com/aurelienog/fly-in/)
-<a href="https://github.com/aurelienog/fly-in/">
-<img src="https://github.com/aurelienog/fly-in/blob/main/fly-in-image.avif" alt="Fly-In" width="100%">
+### 🤖 [RAG]
+
+<a href="https://github.com/aurelienog/rag/">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/rag.webp" alt="RAG" width="100%">
 </a>
 
-Multi-drone simulator with collision-free path planning.  
+RAG system combining document retrieval, data processing and LLM-based responses.
 
-Python • Pygame • Space-Time A* • Reservation table
+Python • RAG • Object-Oriented Programming • Databases
 
 </td>
 
-</tr>
-<tr>
-<td valign="top">
+<td width="25%" valign="top">
 
-### 🧩 [A-Maze-Ing](https://github.com/aurelienog/A-Maze-Ing)
-<a href="https://github.com/aurelienog/A-Maze-Ing/">
-<img src="https://github.com/aurelienog/a-maze-ing/blob/main/a-maze-ing-image.avif" alt="a-maze-ing" width="100%">
+### 🕹️ [PACMAN]
+
+<a href="https://github.com/aurelienog/pacman/">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/pacman.webp" alt="PACMAN" width="100%">
 </a>
 
-Maze generation and solving using classic graph algorithms.
+Collaborative game project focused on graphics, game logic and team development.
 
-Python • DFS • BFS • Prim
+Python • Graphics • Object-Oriented Programming • Algorithms
 
 </td>
 
@@ -107,7 +107,7 @@ Python • DFS • BFS • Prim
 
 ### 🏠 [ANJ Renov](https://www.anj-renov.fr/)
 <a href="https://www.anj-renov.fr/">
-<img src="https://github.com/aurelienog/aurelienog/blob/main/anj-image.avif" alt="anj-renov" width="100%">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/anj.webp" alt="anj-renov" width="100%">
 </a>
 
 Production website designed, developed and deployed for a renovation company.
@@ -175,11 +175,6 @@ Highlights:
 
 ---
 
-## 📈 GitHub Stats 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aurelienog&theme=carbonfox)](https://git.io/streak-stats)
-
----
-
 ## 📫 Let's connect
 
 - 🌐 [Portfolio](https://aurelie-nogueira.vercel.app/)
@@ -188,5 +183,5 @@ Highlights:
 
 ---
 
+Always building.  
 Always learning.  
-Always building.
