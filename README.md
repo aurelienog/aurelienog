@@ -69,8 +69,8 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/aurelienog/blob/main/codexion.webp" alt="codexion" width="100%"></a>
-
 C • POSIX Threads • Mutexes • EDF • FIFO
+
 
 </td>
 
@@ -104,7 +104,8 @@ Python • Graphics • Object-Oriented Programming • Algorithms
 <a href="https://www.anj-renov.fr/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/ANJ.webp" alt="anj-renov" width="100%">
 </a>
-
+Production website.
+Designed, developed and deployed independently.
 Next.js • TypeScript
 
 </td>
