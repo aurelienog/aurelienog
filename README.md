@@ -105,6 +105,7 @@ Python • Graphics • OOP • Algorithms
 <img src="https://github.com/aurelienog/aurelienog/blob/main/ANJ.webp" alt="anj-renov" width="100%">
 </a>
 Production website.  
+
 Next.js • TypeScript
 
 </td>
