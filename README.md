@@ -69,7 +69,6 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 
 ### 🚦 [Codexion](https://github.com/aurelienog/codexion/)  
 <a href="https://github.com/aurelienog/codexion/"><img src="https://github.com/aurelienog/aurelienog/blob/main/codexion.webp" alt="codexion" width="100%"></a>
-Concurrent task scheduler with centralized resource arbitration.  
 
 C • POSIX Threads • Mutexes • EDF • FIFO
 
@@ -77,13 +76,11 @@ C • POSIX Threads • Mutexes • EDF • FIFO
 
 <td width="25%" valign="top">
 
-### 🤖 [RAG]
+### 🤖 [RAG](https://github.com/aurelienog/rag)
 
 <a href="https://github.com/aurelienog/rag/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/RAG.webp" alt="RAG" width="100%">
 </a>
-
-RAG system combining document retrieval, data processing and LLM-based responses.
 
 Python • RAG • Object-Oriented Programming • Databases
 
@@ -91,13 +88,11 @@ Python • RAG • Object-Oriented Programming • Databases
 
 <td width="25%" valign="top">
 
-### 🕹️ [PACMAN]
+### 🕹️ [PACMAN](https://github.com/aurelienog/pacman/)
 
 <a href="https://github.com/aurelienog/pacman/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/pacman.webp" alt="PACMAN" width="100%">
 </a>
-
-Collaborative game project focused on graphics, game logic and team development.
 
 Python • Graphics • Object-Oriented Programming • Algorithms
 
@@ -109,9 +104,6 @@ Python • Graphics • Object-Oriented Programming • Algorithms
 <a href="https://www.anj-renov.fr/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/ANJ.webp" alt="anj-renov" width="100%">
 </a>
-
-Production website designed, developed and deployed for a renovation company.
-
 
 Next.js • TypeScript
 
