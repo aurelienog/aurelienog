@@ -80,7 +80,7 @@ C • POSIX Threads • Mutexes • EDF • FIFO
 ### 🤖 [RAG]
 
 <a href="https://github.com/aurelienog/rag/">
-<img src="https://github.com/aurelienog/aurelienog/blob/main/rag.webp" alt="RAG" width="100%">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/RAG.webp" alt="RAG" width="100%">
 </a>
 
 RAG system combining document retrieval, data processing and LLM-based responses.
@@ -107,7 +107,7 @@ Python • Graphics • Object-Oriented Programming • Algorithms
 
 ### 🏠 [ANJ Renov](https://www.anj-renov.fr/)
 <a href="https://www.anj-renov.fr/">
-<img src="https://github.com/aurelienog/aurelienog/blob/main/anj.webp" alt="anj-renov" width="100%">
+<img src="https://github.com/aurelienog/aurelienog/blob/main/ANJ.webp" alt="anj-renov" width="100%">
 </a>
 
 Production website designed, developed and deployed for a renovation company.
