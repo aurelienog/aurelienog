@@ -82,7 +82,7 @@ C • POSIX Threads • Mutexes • EDF • FIFO
 <img src="https://github.com/aurelienog/aurelienog/blob/main/RAG.webp" alt="RAG" width="100%">
 </a>
 
-Python • RAG • Object-Oriented Programming • Databases
+Python • RAG • OOP • Databases
 
 </td>
 
@@ -94,7 +94,7 @@ Python • RAG • Object-Oriented Programming • Databases
 <img src="https://github.com/aurelienog/aurelienog/blob/main/pacman.webp" alt="PACMAN" width="100%">
 </a>
 
-Python • Graphics • Object-Oriented Programming • Algorithms
+Python • Graphics • OOP • Algorithms
 
 </td>
 
