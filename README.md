@@ -104,7 +104,6 @@ Python • Graphics • Object-Oriented Programming • Algorithms
 <a href="https://www.anj-renov.fr/">
 <img src="https://github.com/aurelienog/aurelienog/blob/main/ANJ.webp" alt="anj-renov" width="100%">
 </a>
-Production website.
 Designed, developed and deployed independently.
 Next.js • TypeScript
 
