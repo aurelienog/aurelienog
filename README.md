@@ -121,12 +121,12 @@ Current level: **4.82** (Common Core)
 Progress: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ 36%
 
 Highlights:
-- ✅ 22 projects
+- ✅ 23 projects
 - 🏆 Exam Rank 02 / Exam Rank 03 / Exam Rank 04
-- ⏱️ 1000+ hours of coursework
+- ⏱️ 1200+ hours of coursework
 
-<details>
-<summary><strong>📚 Completed projects (22)</strong></summary>
+<details open>
+<summary><strong>📚 Completed projects</strong></summary>
 
 <br>
 
@@ -139,7 +139,7 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
-| <a href="https://github.com/aurelienog/RAG/">🚧 RAG</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP · DB & Data |
+| <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP · DB & Data |
 | <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-System-23282b?)  | 50H | Network & system administration |
 | <a href="https://github.com/aurelienog/pacman/">Pacman 👥</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/call-me-maybe/">Call Me Maybe ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Algorithms & AI · OOP |
