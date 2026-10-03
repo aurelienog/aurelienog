@@ -116,9 +116,9 @@ Next.js • TypeScript
 
 ## 🎓 42 Cursus
 
-Current level: **4.82** (Common Core)
+Current level: **5.38** (Common Core)
 
-Progress: 🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ 36%
+Progress: 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 57%
 
 Highlights:
 - ✅ 23 projects
