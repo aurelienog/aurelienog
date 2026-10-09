@@ -46,7 +46,7 @@ Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) | ![mypy](https://img.shields.io/badge/-mypy-2A6DB2) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![flake8](https://img.shields.io/badge/-flake8-3776AB) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
-|  | ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
+|  | ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black) | ![Docker](https://img.shields.io/badge/-Docker-3776AB?logo=docker&logoColor=white) |
 
 ---
 
@@ -139,6 +139,7 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
+| <a href="https://github.com/aurelienog/inception/">🚧 Inception ⭐</a> | ![Docker](https://img.shields.io/badge/-Docker-23282b?logo=docker&logoColor=white)  | 150H | Network & system administration · DB & Data |
 | <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP · DB & Data |
 | <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-System-23282b?)  | 50H | Network & system administration |
 | <a href="https://github.com/aurelienog/pacman/">Pacman 👥</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 150H | Algorithms & AI · OOP |
