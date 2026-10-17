@@ -121,7 +121,7 @@ Current level: **5.38** (Common Core)
 Progress: 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 57%
 
 Highlights:
-- ✅ 23 projects
+- ✅ 24 projects
 - 🏆 Exam Rank 02 / Exam Rank 03 / Exam Rank 04
 - ⏱️ 1200+ hours of coursework
 
@@ -139,8 +139,8 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
-| <a href="https://github.com/aurelienog/inception/">🚧 Inception ⭐</a> | ![Docker](https://img.shields.io/badge/-Docker-23282b?logo=docker&logoColor=white)  | 150H | Network & system administration · DB & Data |
-| <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP · DB & Data |
+| <a href="https://github.com/aurelienog/inception/">Inception ⭐</a> | ![Docker](https://img.shields.io/badge/-Docker-23282b?logo=docker&logoColor=white)  | 150H | Network & system administration · DB & Data |
+| <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-System-23282b?)  | 50H | Network & system administration |
 | <a href="https://github.com/aurelienog/pacman/">Pacman 👥</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/call-me-maybe/">Call Me Maybe ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Algorithms & AI · OOP |
