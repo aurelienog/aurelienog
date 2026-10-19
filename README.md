@@ -31,7 +31,7 @@ I am looking for my first opportunity as a **software developer**, where I can a
 </details>
 
 <details>
-<summary>🇫🇷 Version en français</summary>
+<summary>🇫🇷 Version française</summary>
   
 Je suis développeuse de logiciels en formation à **42 Urduliz Bizkaia — Fundación Telefónica** (reconnue dans le Top 3 mondial par le classement WURI 2026), où j'occupe actuellement la **première place de ma coalition**. Cette réussite reflète ma persévérance, mon implication active dans l'apprentissage peer-to-peer et mon solide engagement technique.
 
