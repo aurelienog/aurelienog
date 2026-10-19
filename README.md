@@ -5,34 +5,43 @@
 ![](https://img.shields.io/badge/Backend%20Focus-6f42c1?)
 ![](https://img.shields.io/badge/42%20Student-000000?)
 
-I'm a software developer currently studying at **42**, building a strong foundation in algorithms, data structures and software engineering through hands-on projects.
+Soy desarrolladora de software en formación en **42 Urduliz Bizkaia — Fundación Telefónica** (reconocida en el **Top 3 mundial** por el Ranking WURI 2026), donde actualmente ocupo el **primer puesto de mi coalición**. Este logro refleja mi constancia, mi participación activa en el aprendizaje peer-to-peer y mi sólido compromiso técnico.
 
-Before joining 42, I completed a **MERN Stack** bootcamp and independently designed, developed and deployed a production website for a family business using **Next.js** and **TypeScript**.
+Tras varios años de experiencia en gestión y administración de empresas, decidí reorientar mi carrera hacia el sector tecnológico, combinando mi experiencia de negocio con el desarrollo de software.
 
-I'm looking for my first opportunity as a **Software Developer**, open to work in **Bilbao or remotely**.  
-I'm fluent in **French (native)**, **Spanish**, and **English**.
+Comencé mi formación con un bootcamp **MERN Stack** y, de forma independiente, diseñé, desarrollé y desplegué la web de una empresa familiar con **Next.js y TypeScript**, gestionando el proyecto de principio a fin: arquitectura, implementación, SEO, accesibilidad y despliegue.
+
+En 42 sigo profundizando en algoritmos, estructuras de datos, programación concurrente y diseño de software.. Me motiva resolver problemas complejos, aprender nuevas tecnologías y escribir código claro, eficiente y mantenible.
+
+Busco mi primera oportunidad como **desarrolladora de software junior**, donde pueda aplicar mis habilidades técnicas, afrontar nuevos retos técnicos y seguir aprendiendo junto a un equipo de IT.
 
 <details>
-<summary>🇪🇸 Versión en español</summary>
-  
-Desarrolladora de software en formación en **42**, donde estoy construyendo una sólida base en algoritmos, estructuras de datos e ingeniería de software a través de proyectos prácticos.
+<summary>🇬🇧 English version</summary>
 
-Antes de incorporarme a 42, completé un bootcamp de **MERN Stack** y desarrollé y desplegué de forma independiente una web en producción para una empresa familiar utilizando **Next.js** y **TypeScript**.
+I'm a software developer in training at **42 Urduliz Bizkaia — Fundación Telefónica**, ranked among the **Top 3 most innovative universities worldwide in the WURI 2026 ranking**. I currently hold the **first place in my coalition**, reflecting my consistency, active participation in peer-to-peer learning, and strong technical commitment.
 
-Busco mi primera oportunidad como **Software Developer**, en **Bilbao** o en remoto.  
-Hablo **francés (nativo)**, **español** e **inglés** con fluidez.
+After several years of experience in business management and administration, I decided to transition into tech, combining my business background with software development.
+
+I started my journey with a **MERN Stack** bootcamp and independently designed, developed, and deployed a website for a family business using **Next.js and TypeScript**. I managed the entire project lifecycle, from architecture and implementation to SEO, accessibility, and deployment.
+
+At 42, I'm continuing to strengthen my skills in algorithms, data structures, concurrent programming, and software design. I enjoy tackling complex problems, learning new technologies, and writing clean, efficient, and maintainable code.
+
+I am looking for my first opportunity as a **software developer**, where I can apply my technical skills, face new technical challenges, and keep learning alongside an engineering team.
 
 </details>
 
 <details>
 <summary>🇫🇷 Version en français</summary>
   
-Software Developer en formation à 42, où je développe de solides compétences en algorithmes, structures de données et ingénierie logicielle grâce à des projets concrets.
+Je suis développeuse de logiciels en formation à **42 Urduliz Bizkaia — Fundación Telefónica** (reconnue dans le Top 3 mondial par le classement WURI 2026), où j'occupe actuellement la **première place de ma coalition**. Cette réussite reflète ma persévérance, mon implication active dans l'apprentissage peer-to-peer et mon solide engagement technique.
 
-Avant d'intégrer 42, j'ai suivi un bootcamp MERN Stack et conçu puis déployé de manière autonome un site web en production pour une entreprise familiale avec Next.js et TypeScript.
+Après plusieurs années d'expérience en gestion et administration d'entreprise, j'ai décidé de réorienter ma carrière vers le secteur technologique, en combinant mon expertise business avec le développement de logiciels.
 
-Je recherche ma première opportunité en tant que Software Developer, à Bilbao ou en télétravail.  
-Je parle couramment le français (langue maternelle), l'espagnol et l'anglais.
+J'ai commencé ma formation par un bootcamp **MERN Stack** et, de manière indépendante, j'ai conçu, développé et déployé le site web d'une entreprise familiale avec **Next.js et TypeScript**. J'ai géré le projet de bout en bout : architecture, implémentation, SEO, accessibilité et déploiement.
+
+À 42, je continue d'approfondir mes compétences en algorithmes, structures de données, programmation concurrente et conception de logiciels. Je suis motivée par la résolution de problèmes complexes, l'apprentissage de nouvelles technologies et l'écriture d'un code propre, efficace et maintenable.
+
+Je recherche ma première opportunité en tant que **software developer**, afin de mettre à profit mes compétences techniques, de relever de nouveaux défis et de continuer à apprendre au sein d'une équipe informatique.
 
 </details>
 
@@ -116,7 +125,7 @@ Next.js • TypeScript
 
 ## 🎓 42 Cursus
 
-Current level: **5.38** (Common Core)
+Current level: **6.58** (Common Core)
 
 Progress: 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 57%
 
@@ -141,7 +150,7 @@ Highlights:
 |---------|----------|:--------:|-------------|
 | <a href="https://github.com/aurelienog/inception/">Inception ⭐</a> | ![Docker](https://img.shields.io/badge/-Docker-23282b?logo=docker&logoColor=white)  | 150H | Network & system administration · DB & Data |
 | <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP |
-| <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-System-23282b?)  | 50H | Network & system administration |
+| <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-Network-23282b?)  | 50H | Network & system administration |
 | <a href="https://github.com/aurelienog/pacman/">Pacman 👥</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/call-me-maybe/">Call Me Maybe ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 80H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/codexion/">Codexion</a> | ![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white) | 80H | POSIX Threads · Scheduling |
