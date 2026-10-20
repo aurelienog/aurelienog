@@ -148,6 +148,7 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
+| <a href="https://github.com/aurelienog/the-answer-protocol">TAP 👥 🚧</a> | ![Go](https://img.shields.io/badge/-Go-3776AB?logo=go&logoColor=white)  | 150H | Network & system administration, Graphics, Group |
 | <a href="https://github.com/aurelienog/inception/">Inception ⭐</a> | ![Docker](https://img.shields.io/badge/-Docker-23282b?logo=docker&logoColor=white)  | 150H | Network & system administration · DB & Data |
 | <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-Network-23282b?)  | 50H | Network & system administration |
