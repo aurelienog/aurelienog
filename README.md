@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Backend%20Focus-6f42c1?)
 ![](https://img.shields.io/badge/42%20Student-000000?)
 
-Desarrolladora de software en formación en **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 Ranking WURI 2026).  
+**Desarrolladora de software** en formación en **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 Ranking WURI 2026).  
 
 Tras varios años de experiencia en **gestión y administración de empresas**, decidí reorientar mi carrera hacia el sector tecnológico, combinando mi experiencia de negocio con el desarrollo de software.
 
