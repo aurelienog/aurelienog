@@ -9,7 +9,7 @@
 
 Tras varios años de experiencia en **gestión y administración de empresas**, decidí reorientar mi carrera hacia el sector tecnológico, combinando mi experiencia de negocio con el desarrollo de software.
 
-En 42 afronto retos técnicos complejos a través de proyectos prácticos en los que desarrollo sistemas concurrentes en C, infraestructuras con Docker y soluciones de inteligencia artificial con Python.
+En 42 afronto retos técnicos complejos a través de proyectos prácticos. Desarrollo sistemas concurrentes en C, infraestructuras con Docker y soluciones de inteligencia artificial con Python.
 
 Estoy **abierta a nuevas oportunidades** en el sector tecnológico donde pueda aportar mis conocimientos técnicos y contribuir al desarrollo de soluciones junto a un equipo de IT.
 
