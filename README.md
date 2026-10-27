@@ -18,7 +18,7 @@ Estoy **abierta a nuevas oportunidades** en el sector tecnológico donde pueda a
 <details>
 <summary>🇬🇧 English version</summary>
 
-Software Developer in Training at **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 in the WURI 2026 Rankings).
+**Software Developer** in Training at **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 in the WURI 2026 Rankings).
 
 After several years of experience in **business management and administration**, I decided to transition into the tech industry, combining my business background with software development.
 
