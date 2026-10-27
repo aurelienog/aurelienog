@@ -5,43 +5,43 @@
 ![](https://img.shields.io/badge/Backend%20Focus-6f42c1?)
 ![](https://img.shields.io/badge/42%20Student-000000?)
 
-Soy desarrolladora de software en formación en **42 Urduliz Bizkaia — Fundación Telefónica** (reconocida en el **Top 3 mundial** por el Ranking WURI 2026), donde actualmente ocupo el **primer puesto de mi coalición**. Este logro refleja mi constancia, mi participación activa en el aprendizaje peer-to-peer y mi sólido compromiso técnico.
+Desarrolladora de software en formación en **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 Ranking WURI 2026).  
 
-Tras varios años de experiencia en gestión y administración de empresas, decidí reorientar mi carrera hacia el sector tecnológico, combinando mi experiencia de negocio con el desarrollo de software.
+Tras varios años de experiencia en **gestión y administración de empresas**, decidí reorientar mi carrera hacia el sector tecnológico, combinando mi experiencia de negocio con el desarrollo de software.
 
-Comencé mi formación con un bootcamp **MERN Stack** y, de forma independiente, diseñé, desarrollé y desplegué la web de una empresa familiar con **Next.js y TypeScript**, gestionando el proyecto de principio a fin: arquitectura, implementación, SEO, accesibilidad y despliegue.
+En 42 afronto retos técnicos complejos a través de proyectos prácticos en los que desarrollo sistemas concurrentes en C, infraestructuras con Docker y soluciones de inteligencia artificial con Python.
 
-En 42 sigo profundizando en algoritmos, estructuras de datos, programación concurrente y diseño de software.. Me motiva resolver problemas complejos, aprender nuevas tecnologías y escribir código claro, eficiente y mantenible.
+Estoy **abierta a nuevas oportunidades** en el sector tecnológico donde pueda aportar mis conocimientos técnicos y contribuir al desarrollo de soluciones junto a un equipo de IT.
 
-Busco mi primera oportunidad como **desarrolladora de software junior**, donde pueda aplicar mis habilidades técnicas, afrontar nuevos retos técnicos y seguir aprendiendo junto a un equipo de IT.
+🌍 Idiomas: Francés (nativo) | Español (C1) | Inglés (C1)
 
 <details>
 <summary>🇬🇧 English version</summary>
 
-I'm a software developer in training at **42 Urduliz Bizkaia — Fundación Telefónica**, ranked among the **Top 3 most innovative universities worldwide in the WURI 2026 ranking**. I currently hold the **first place in my coalition**, reflecting my consistency, active participation in peer-to-peer learning, and strong technical commitment.
+Software Developer in Training at **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 in the WURI 2026 Rankings).
 
-After several years of experience in business management and administration, I decided to transition into tech, combining my business background with software development.
+After several years of experience in **business management and administration**, I decided to transition into the tech industry, combining my business background with software development.
 
-I started my journey with a **MERN Stack** bootcamp and independently designed, developed, and deployed a website for a family business using **Next.js and TypeScript**. I managed the entire project lifecycle, from architecture and implementation to SEO, accessibility, and deployment.
+At 42, I tackle complex technical challenges through hands-on projects, developing concurrent systems in C, building Docker-based infrastructures, and creating AI solutions with Python.
 
-At 42, I'm continuing to strengthen my skills in algorithms, data structures, concurrent programming, and software design. I enjoy tackling complex problems, learning new technologies, and writing clean, efficient, and maintainable code.
+I am **open to new opportunities** in the tech industry where I can apply my technical skills and contribute to building solutions as part of an IT team.
 
-I am looking for my first opportunity as a **software developer**, where I can apply my technical skills, face new technical challenges, and keep learning alongside an engineering team.
+🌍 **Languages:** French (Native) | Spanish (C1) | English (C1)
 
 </details>
 
 <details>
 <summary>🇫🇷 Version française</summary>
   
-Je suis développeuse de logiciels en formation à **42 Urduliz Bizkaia — Fundación Telefónica** (reconnue dans le Top 3 mondial par le classement WURI 2026), où j'occupe actuellement la **première place de ma coalition**. Cette réussite reflète ma persévérance, mon implication active dans l'apprentissage peer-to-peer et mon solide engagement technique.
+**Software developer** en formation à **42 Urduliz Bizkaia — Fundación Telefónica** (reconnue dans le Top 3 mondial par le classement WURI 2026).
 
-Après plusieurs années d'expérience en gestion et administration d'entreprise, j'ai décidé de réorienter ma carrière vers le secteur technologique, en combinant mon expertise business avec le développement de logiciels.
+Après plusieurs années d'expérience en gestion et administration d'entreprise, j'ai décidé de réorienter ma carrière vers le secteur technologique, en combinant mon expertise business avec la programmation.
 
-J'ai commencé ma formation par un bootcamp **MERN Stack** et, de manière indépendante, j'ai conçu, développé et déployé le site web d'une entreprise familiale avec **Next.js et TypeScript**. J'ai géré le projet de bout en bout : architecture, implémentation, SEO, accessibilité et déploiement.
+À 42, je relève des défis techniques complexes à travers des projets pratiques. Je développe des systèmes concurrents en C, mets en place des infrastructures avec Docker et conçois des solutions d’intelligence artificielle en Python.
 
-À 42, je continue d'approfondir mes compétences en algorithmes, structures de données, programmation concurrente et conception de logiciels. Je suis motivée par la résolution de problèmes complexes, l'apprentissage de nouvelles technologies et l'écriture d'un code propre, efficace et maintenable.
+Je suis ouverte à de **nouvelles opportunités dans le secteur technologique**, où je pourrai mettre à profit mes compétences techniques et mon expérience professionnelle, tout en contribuant au développement de solutions au sein d’une équipe IT.
 
-Je recherche ma première opportunité en tant que **software developer**, afin de mettre à profit mes compétences techniques, de relever de nouveaux défis et de continuer à apprendre au sein d'une équipe informatique.
+🌍 Langues : Français (langue maternelle) | Espagnol (C1) | Anglais (C1)
 
 </details>
 
