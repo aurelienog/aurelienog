@@ -148,7 +148,7 @@ Highlights:
 
 | Project | Language | Workload | Key concepts |
 |---------|----------|:--------:|-------------|
-| <a href="https://github.com/aurelienog/the-answer-protocol">The Answer Protocol 👥 🚧</a> | ![Go](https://img.shields.io/badge/-Go-3776AB?logo=go&logoColor=white)  | 150H | Network & system administration, Graphics, Group |
+| <a href="https://github.com/aurelienog/the-answer-protocol">The Answer Protocol 👥 🚧</a> | ![Go](https://img.shields.io/badge/-Go-3776AB?logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  | 150H | Network & system administration, Graphics, Group |
 | <a href="https://github.com/aurelienog/inception/">Inception ⭐</a> | ![Docker](https://img.shields.io/badge/-Docker-23282b?logo=docker&logoColor=white)  | 150H | Network & system administration · DB & Data |
 | <a href="https://github.com/aurelienog/RAG/">RAG ⭐</a> | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | 150H | Algorithms & AI · OOP |
 | <a href="https://github.com/aurelienog/NetPractice/">Netpractice</a> | ![Linux](https://img.shields.io/badge/-Network-23282b?)  | 50H | Network & system administration |
