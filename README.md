@@ -2,7 +2,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-28a745?)
 ![Bilbao / Remote](https://img.shields.io/badge/Bilbao%20%7C%20Remote-0A66C2?)
-![](https://img.shields.io/badge/Backend%20Focus-6f42c1?)
 ![](https://img.shields.io/badge/42%20Student-000000?)
 
 **Desarrolladora de software** en formación en **42 Urduliz Bizkaia — Fundación Telefónica** (Top 3 Ranking WURI 2026).  
