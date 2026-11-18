@@ -131,7 +131,7 @@ Progress: 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 57%
 Highlights:
 - ✅ 24 projects
 - 🏆 Exam Rank 02 / Exam Rank 03 / Exam Rank 04
-- ⏱️ 1200+ hours of coursework
+- ⏱️ 1400+ hours of coursework
 
 <details open>
 <summary><strong>📚 Completed projects</strong></summary>
