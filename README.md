@@ -38,8 +38,6 @@ Après plusieurs années d'expérience en gestion et administration d'entreprise
 
 À 42, je relève des défis techniques complexes à travers des projets pratiques. Je développe des systèmes concurrents en C, mets en place des infrastructures avec Docker et conçois des solutions d’intelligence artificielle en Python.
 
-Je suis ouverte à de **nouvelles opportunités dans le secteur technologique**, où je pourrai mettre à profit mes compétences techniques et mon expérience professionnelle, tout en contribuant au développement de solutions au sein d’une équipe IT.
-
 🌍 Langues : Français (langue maternelle) | Espagnol (C1) | Anglais (C1)
 
 </details>
