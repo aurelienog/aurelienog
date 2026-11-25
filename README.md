@@ -23,8 +23,6 @@ After several years of experience in **business management and administration**,
 
 At 42, I tackle complex technical challenges through hands-on projects, developing concurrent systems in C, building Docker-based infrastructures, and creating AI solutions with Python.
 
-I am **open to new opportunities** in the tech industry where I can apply my technical skills and contribute to building solutions as part of an IT team.
-
 🌍 **Languages:** French (Native) | Spanish (C1) | English (C1)
 
 </details>
